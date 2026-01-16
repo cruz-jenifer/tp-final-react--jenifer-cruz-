@@ -2,7 +2,7 @@
         "name": "tp-final-react--jenifer-cruz-",
         "private": true,
         "version": "0.0.0",
-        "homepage": "https://jeni9696.github.io/tp-final-react--jenifer-cruz-",
+       "homepage": "https://cruz-jenifer.github.io/tp-final-react--jenifer-cruz-",
         "type": "module",
         "scripts": {
                 "predeploy": "npm run build",
