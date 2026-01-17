@@ -1,6 +1,6 @@
 # 🛒 Pokémon Shop
 
-Una **Single Page Application (SPA)** de e-commerce desarrollada como proyecto final para la diplomatura Full Stack en **UTN FRBA**. La aplicación simula una tienda virtual permitiendo la exploración de productos y gestión de un carrito de compras en tiempo real.
+Una **Single Page Application (SPA)** de e-commerce desarrollada como proyecto final para para la parte frontend en la diplomatura de programacion web Full Stack en **UTN FRBA**. La aplicación simula una tienda virtual permitiendo la exploración de productos y gestión de un carrito de compras en tiempo real.
 
 🔗 **[Ver Demo Desplegada](https://cruz-jenifer.github.io/tp-final-react--jenifer-cruz-/)**
 
